@@ -1,0 +1,38 @@
+C:\Users\Aj\AppData\Local\Temporary Projects\queenPlacing\bin\Debug\queenPlacing.exe
+C:\Users\Aj\AppData\Local\Temporary Projects\queenPlacing\bin\Debug\queenPlacing.pdb
+C:\Users\Aj\AppData\Local\Temporary Projects\queenPlacing\bin\Debug\queenPlacing.xml
+C:\Users\Aj\AppData\Local\Temporary Projects\queenPlacing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aj\AppData\Local\Temporary Projects\queenPlacing\obj\Debug\queenPlacing.Form1.resources
+C:\Users\Aj\AppData\Local\Temporary Projects\queenPlacing\obj\Debug\queenPlacing.Resources.resources
+C:\Users\Aj\AppData\Local\Temporary Projects\queenPlacing\obj\Debug\queenPlacing.vbproj.GenerateResource.Cache
+C:\Users\Aj\AppData\Local\Temporary Projects\queenPlacing\obj\Debug\queenPlacing.exe
+C:\Users\Aj\AppData\Local\Temporary Projects\queenPlacing\obj\Debug\queenPlacing.xml
+C:\Users\Aj\AppData\Local\Temporary Projects\queenPlacing\obj\Debug\queenPlacing.pdb
+D:\study\mca\sem4\visualSudio\queenPlacing\queenPlacing\obj\Debug\queenPlacing.exe
+D:\study\mca\sem4\visualSudio\queenPlacing\queenPlacing\obj\Debug\queenPlacing.xml
+D:\study\mca\sem4\visualSudio\queenPlacing\queenPlacing\obj\Debug\queenPlacing.pdb
+D:\study\mca\sem4\visualSudio\queenPlacing\queenPlacing\bin\Debug\queenPlacing.exe
+D:\study\mca\sem4\visualSudio\queenPlacing\queenPlacing\bin\Debug\queenPlacing.pdb
+D:\study\mca\sem4\visualSudio\queenPlacing\queenPlacing\bin\Debug\queenPlacing.xml
+D:\study\mca\sem4\visualSudio\queenPlacing\queenPlacing\obj\Debug\ResolveAssemblyReference.cache
+D:\study\mca\sem4\visualSudio\queenPlacing\queenPlacing\obj\Debug\queenPlacing.Form1.resources
+D:\study\mca\sem4\visualSudio\queenPlacing\queenPlacing\obj\Debug\queenPlacing.Resources.resources
+D:\study\mca\sem4\visualSudio\queenPlacing\queenPlacing\obj\Debug\queenPlacing.vbproj.GenerateResource.Cache
+D:\study\mca\sem4\visualSudio\queenPlacing\queenPlacing\obj\Debug\queenPlacing.Form2.resources
+H:\queenPlacing\queenPlacing\obj\Debug\queenPlacing.exe
+H:\queenPlacing\queenPlacing\obj\Debug\queenPlacing.xml
+H:\queenPlacing\queenPlacing\obj\Debug\queenPlacing.pdb
+D:\queenPlacing\queenPlacing\obj\Debug\queenPlacing.exe
+D:\queenPlacing\queenPlacing\obj\Debug\queenPlacing.xml
+D:\queenPlacing\queenPlacing\obj\Debug\queenPlacing.pdb
+D:\queenPlacing\queenPlacing\bin\Debug\queenPlacing.exe
+D:\queenPlacing\queenPlacing\bin\Debug\queenPlacing.pdb
+D:\queenPlacing\queenPlacing\bin\Debug\queenPlacing.xml
+D:\queenPlacing\queenPlacing\obj\Debug\ResolveAssemblyReference.cache
+D:\queenPlacing\queenPlacing\obj\Debug\queenPlacing.Form1.resources
+D:\queenPlacing\queenPlacing\obj\Debug\queenPlacing.Form2.resources
+D:\queenPlacing\queenPlacing\obj\Debug\queenPlacing.Resources.resources
+D:\queenPlacing\queenPlacing\obj\Debug\queenPlacing.vbproj.GenerateResource.Cache
+D:\study\mca\sem4\queenPlacing\queenPlacing\obj\Debug\queenPlacing.exe
+D:\study\mca\sem4\queenPlacing\queenPlacing\obj\Debug\queenPlacing.xml
+D:\study\mca\sem4\queenPlacing\queenPlacing\obj\Debug\queenPlacing.pdb
